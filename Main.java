@@ -1,5 +1,5 @@
 /**
- * Van Elias De Hondt
+ * Author Elias De Hondt
  * 24/11/2022
  */
 public class Main {
